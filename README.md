@@ -18,6 +18,10 @@ This is a simple and elegant **responsive landing page** built with HTML, CSS, a
 - **JavaScript (Optional)**
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/) (or any other icon library)
+- 🔗 Live Project
+
+➡️ [View Live Page on GitHub](https://meena20607.github.io/meena-task1/)
+
 
 
 ## 📁 Folder Structure
